@@ -1,4 +1,4 @@
-
+<img src="https://github.com/Sussi-MW/w7_kaggle_competition/blob/main/images/Portada.JPG">
 
 ## Project: Kaggle_competition
 ### by Susana Martin Wanton
